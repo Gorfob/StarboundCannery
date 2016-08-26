@@ -2,7 +2,7 @@
   "itemName" : "cannedCorn",
   "rarity" : "Common",
   "price" : 40,
-  "category" : "food",
+  "category" : "preparedFood",
   "inventoryIcon" : "cannedCorn.png",
   "description" : "Canned corn. Juicy, but not particularly filling.",
   "shortdescription" : "Canned Corn",
@@ -12,8 +12,6 @@
   "maxStack" : 10,
   "itemAgingScripts" : ["/scripts/items/rotting.lua"],
   "rottingMultiplier" : 10,
-  "blockingEffects" : [
-    "wellfed"
-  ]
+  "blockingEffects" : ["wellfed"],
+  "emitters" : ["drinking"]
 }
-

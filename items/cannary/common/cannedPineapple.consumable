@@ -2,7 +2,7 @@
   "itemName" : "cannedPineapple",
   "rarity" : "Common",
   "price" : 40,
-  "category" : "food",
+  "category" : "preparedFood",
   "inventoryIcon" : "cannedPineapple.png",
   "description" : "Canned pineapple in juice. Deliciously sweet, not very filling.",
   "shortdescription" : "Canned Pineapple",
@@ -12,8 +12,6 @@
   "maxStack" : 10,
   "itemAgingScripts" : ["/scripts/items/rotting.lua"],
   "rottingMultiplier" : 10,
-  "blockingEffects" : [
-    "wellfed"
-  ]
+  "blockingEffects" : ["wellfed"],
+  "emitters" : ["drinking"]
 }
-

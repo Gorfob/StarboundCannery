@@ -2,7 +2,7 @@
   "itemName" : "cannedTomatoes",
   "rarity" : "Common",
   "price" : 40,
-  "category" : "food",
+  "category" : "preparedFood",
   "inventoryIcon" : "cannedTomatoes.png",
   "description" : "Canned tomatoes. Just like mama use to make!",
   "shortdescription" : "Canned Fish",
@@ -12,8 +12,6 @@
   "maxStack" : 10,
   "itemAgingScripts" : ["/scripts/items/rotting.lua"],
   "rottingMultiplier" : 10,
-  "blockingEffects" : [
-    "wellfed"
-  ]
+  "blockingEffects" : ["wellfed"],
+  "emitters" : ["drinking"]
 }
-

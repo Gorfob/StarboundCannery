@@ -2,7 +2,7 @@
   "itemName" : "cannedMushrooms",
   "rarity" : "Common",
   "price" : 40,
-  "category" : "food",
+  "category" : "preparedFood",
   "inventoryIcon" : "cannedMushrooms.png",
   "description" : "Canned mushrooms in sauce. Tasty, but not particularly filling.",
   "shortdescription" : "Canned Mushrooms",
@@ -12,8 +12,6 @@
   "maxStack" : 10,
   "itemAgingScripts" : ["/scripts/items/rotting.lua"],
   "rottingMultiplier" : 10,
-  "blockingEffects" : [
-    "wellfed"
-  ]
+  "blockingEffects" : ["wellfed"],
+  "emitters" : ["drinking"]
 }
-

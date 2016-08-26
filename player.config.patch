@@ -1,5 +1,8 @@
-[ {
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "emptyCan" }
-} ]
+[{
+    "op" : "add",
+    "path" : "/defaultBlueprints/tier1/-",
+    "value" : {
+      "item" : "emptyCan"
+    }
+  }
+]
