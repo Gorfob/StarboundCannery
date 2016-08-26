@@ -1,0 +1,19 @@
+{
+  "itemName" : "cannedFish",
+  "rarity" : "Common",
+  "price" : 40,
+  "category" : "food",
+  "inventoryIcon" : "cannedFish.png",
+  "description" : "Canned fish. It's a little dry, but it's full of protein.",
+  "shortdescription" : "Canned Fish",
+  "foodValue" : 10,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 10,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 10,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}
+

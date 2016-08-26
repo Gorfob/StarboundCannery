@@ -1,0 +1,19 @@
+{
+  "itemName" : "cannedTomatoes",
+  "rarity" : "Common",
+  "price" : 40,
+  "category" : "food",
+  "inventoryIcon" : "cannedTomatoes.png",
+  "description" : "Canned tomatoes. Just like mama use to make!",
+  "shortdescription" : "Canned Fish",
+  "foodValue" : 10,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 10,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 10,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}
+

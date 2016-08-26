@@ -1,0 +1,19 @@
+{
+  "itemName" : "cannedMushrooms",
+  "rarity" : "Common",
+  "price" : 40,
+  "category" : "food",
+  "inventoryIcon" : "cannedMushrooms.png",
+  "description" : "Canned mushrooms in sauce. Tasty, but not particularly filling.",
+  "shortdescription" : "Canned Mushrooms",
+  "foodValue" : 10,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 10,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 10,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}
+

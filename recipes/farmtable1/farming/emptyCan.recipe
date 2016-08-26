@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "ironbar", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "emptyCan", "count" : 10},
+  "groups" : [ "craftingfarm", "farming" ]
+}

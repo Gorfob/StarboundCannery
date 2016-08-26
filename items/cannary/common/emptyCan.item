@@ -1,0 +1,10 @@
+{
+  "itemName" : "emptyCan",
+  "price" : 4,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "emptyCan.png",
+  "description" : "Empty can for use in canning foodstuffs.",
+  "shortdescription" : "Empty Can",
+  "itemTags" : [ "reagent" ]
+}

@@ -1,0 +1,26 @@
+{
+  "itemName" : "cannedFishstew",
+  "rarity" : "Uncommon",
+  "price" : 200,
+  "category" : "preparedFood",
+  "inventoryIcon" : "cannedFishstew.png",
+  "description" : "A can of light, fishy stew that goes down easy.",
+  "shortdescription" : "Canned Fish Stew",
+  "effects" : [ [
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 495
+    }
+  ] ],
+  "foodValue" : 55,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 10,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 10,
+  "blockingEffects" : [
+    "wellfed"
+  ],
+  "emitters" : [ "drinking" ],
+  "learnBlueprintsOnPickup" : [ "fishstew" ]
+}
