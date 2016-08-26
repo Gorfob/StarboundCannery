@@ -4,7 +4,7 @@ Adds the ability to can certain foods. Food with effects still has effects. Cans
 
 Canning recipes are currently added to the cooking station with the possibility of a custom canning station to be added later. Empty cans can be made in lots of 10 per Iron bar at the farming/agriculture station.
 ##Common
-*Fish
+* Fish
 * Corn
 * Mushrooms
 * Pearlpeas
