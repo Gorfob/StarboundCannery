@@ -1,7 +1,7 @@
 {
  "author" : "Gorfob",
- "description" : "Adds the ability to can certain foods. Food with effects still has effects. Cans stack to 10. Food effects persist. Does not modify any vanilla items.",
+ "description" : "Adds the ability to can certain foods. Food with effects still has effects. Cans stack to 10. Food effects persist. Uses .patch files to add canning recipes to the appropriate precursor foods.",
  "friendlyName" : "Cannery",
- "name" : "gorfob_cannery",
+ "name" : "GorfobsCannery",
  "version" : "1"
 }
