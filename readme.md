@@ -31,7 +31,7 @@ Canned produce such as tomatoes, corn, pearlpeas etc. require more than 1 to mak
 ###Rare
 * Fruit salad
 * Oculemon stew
-# Wartweed stew
+* Wartweed stew
 
 ###Legendary
 * Ultimate juice
