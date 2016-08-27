@@ -1,7 +1,7 @@
 {
   "itemName" : "cannedPineapple",
   "rarity" : "Common",
-  "price" : 40,
+  "price" : 160,
   "category" : "preparedFood",
   "inventoryIcon" : "cannedPineapple.png",
   "description" : "Canned pineapple in juice. Deliciously sweet, not very filling.",

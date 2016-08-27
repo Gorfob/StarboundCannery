@@ -3,12 +3,12 @@
       "item" : "emptyCan",
       "count" : 1
     }, {
-      "item" : "pineapple",
+      "item" : "ricepudding",
       "count" : 1
     }
   ],
   "output" : {
-    "item" : "cannedPineapple",
+    "item" : "cannedRicepudding",
     "count" : 1
   },
   "groups" : ["craftingfood", "mains"]

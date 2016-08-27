@@ -3,12 +3,12 @@
       "item" : "emptyCan",
       "count" : 1
     }, {
-      "item" : "pineapple",
+      "item" : "wartweedstew",
       "count" : 1
     }
   ],
   "output" : {
-    "item" : "cannedPineapple",
+    "item" : "cannedWartweedstew",
     "count" : 1
   },
   "groups" : ["craftingfood", "mains"]

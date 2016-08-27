@@ -1,0 +1,27 @@
+{
+  "itemName" : "cannedFruitsalad",
+  "rarity" : "Rare",
+  "price" : 650,
+  "category" : "preparedFood",
+  "inventoryIcon" : "cannedFruitsalad.png",
+  "description" : "Various fruits all conveniently mixed together and then sealed in a can.",
+  "shortdescription" : "Canned Fruit Salad",
+  "effects" : [[{
+        "effect" : "runboostfood",
+        "duration" : 210
+      }, {
+        "effect" : "jumpboostfood",
+        "duration" : 210
+      }, {
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 210
+      }
+    ]],
+  "foodValue" : 70,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 10,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 10,
+  "blockingEffects" : ["wellfed"]
+}

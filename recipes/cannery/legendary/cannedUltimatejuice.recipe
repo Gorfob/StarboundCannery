@@ -1,0 +1,12 @@
+{
+  "input" : [{
+      "item" : "emptyCan",
+      "count" : 1
+    }, {
+      "item" : "ultimatejuice",
+      "count" : 1
+    }
+  ],
+  "output" : { "item" : "cannedUltimatejuice", "count" : 1 },
+  "groups" : [ "craftingfood", "drinks" ]
+}

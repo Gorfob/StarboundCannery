@@ -1,0 +1,25 @@
+{
+  "itemName" : "cannedOculemonstew",
+  "rarity" : "Rare",
+  "price" : 515,
+  "category" : "preparedFood",
+  "inventoryIcon" : "cannedOculemonstew.png",
+  "description" : "A tangy, somewhat slimy stew made of oculemon and meat scraps.",
+  "shortdescription" : "Canned Oculemon Stew",
+  "effects" : [[{
+        "effect" : "ragefood",
+        "duration" : 293
+      }, {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 293
+      }
+    ]],
+  "foodValue" : 65,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 10,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 10,
+  "blockingEffects" : ["wellfed"],
+  "emitters" : ["drinking"]
+}

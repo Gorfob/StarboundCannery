@@ -3,13 +3,13 @@
       "item" : "emptyCan",
       "count" : 1
     }, {
-      "item" : "pineapple",
+      "item" : "fruitsalad",
       "count" : 1
     }
   ],
   "output" : {
-    "item" : "cannedPineapple",
+    "item" : "cannedFruitsalad",
     "count" : 1
   },
-  "groups" : ["craftingfood", "mains"]
+  "groups" : ["craftingfood", "desserts"]
 }

@@ -1,0 +1,36 @@
+{
+  "itemName" : "cannedUltimatejuice",
+  "rarity" : "Legendary",
+  "price" : 1200,
+  "category" : "drink",
+  "inventoryIcon" : "cannedUltimatejuice.png",
+  "description" : "All the fruit, in a juice, in a can.",
+  "shortdescription" : "Canned Ultimate Juice",
+  "effects" : [[{
+        "effect" : "runboostfood",
+        "duration" : 180
+      }, {
+        "effect" : "jumpboostfood",
+        "duration" : 180
+      }, {
+        "effect" : "ragefood",
+        "duration" : 180
+      }, {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 180
+      }, {
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 180
+      }
+    ]],
+  "foodValue" : 100,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 10,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 10,
+  "blockingEffects" : [
+    "wellfed"
+  ],
+  "emitters" : ["drinking"]
+}

@@ -3,12 +3,12 @@
       "item" : "emptyCan",
       "count" : 1
     }, {
-      "item" : "pineapple",
+      "item" : "automatostew",
       "count" : 1
     }
   ],
   "output" : {
-    "item" : "cannedPineapple",
+    "item" : "cannedAutomatostew",
     "count" : 1
   },
   "groups" : ["craftingfood", "mains"]

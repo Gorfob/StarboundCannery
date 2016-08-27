@@ -1,17 +1,17 @@
 {
-  "itemName" : "cannedFishstew",
+  "itemName" : "cannedAutomatostew",
   "rarity" : "Uncommon",
-  "price" : 200,
+  "price" : 250,
   "category" : "preparedFood",
-  "inventoryIcon" : "cannedFishstew.png",
-  "description" : "A can of light, fishy stew that goes down easy.",
-  "shortdescription" : "Canned Fish Stew",
+  "inventoryIcon" : "cannedAutomatostew.png",
+  "description" : "A surprisingly tasty canned stew, if you watch out for the bits of metal.",
+  "shortdescription" : "Canned Automato Stew",
   "effects" : [[{
-        "effect" : "maxhealthscalingboostfood",
-        "duration" : 495
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 270
       }
     ]],
-  "foodValue" : 55,
+  "foodValue" : 30,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 10,

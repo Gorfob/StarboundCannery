@@ -1,0 +1,22 @@
+{
+  "itemName" : "cannedWartweedstew",
+  "rarity" : "Rare",
+  "price" : 350,
+  "category" : "preparedFood",
+  "inventoryIcon" : "cannedWartweedstew.png",
+  "description" : "A hearty, thick stew of wartweed and vegetables.",
+  "shortdescription" : "Canned Wartweed Stew",
+  "effects" : [[{
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 360
+      }
+    ]],
+  "foodValue" : 40,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 10,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 10,
+  "blockingEffects" : ["wellfed"],
+  "emitters" : ["drinking"]
+}

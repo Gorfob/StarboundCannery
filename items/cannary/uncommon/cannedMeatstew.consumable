@@ -1,17 +1,17 @@
 {
-  "itemName" : "cannedMushrooms",
-  "rarity" : "Common",
-  "price" : 30,
+  "itemName" : "cannedMeatstew",
+  "rarity" : "Uncommon",
+  "price" : 200,
   "category" : "preparedFood",
-  "inventoryIcon" : "cannedMushrooms.png",
-  "description" : "Canned mushrooms in sauce. Tasty, but not particularly filling.",
-  "shortdescription" : "Canned Mushrooms",
+  "inventoryIcon" : "cannedMeatstew.png",
+  "description" : "A slightly inferior version of what mama used to make!",
+  "shortdescription" : "Canned Meat Stew",
   "effects" : [[{
         "effect" : "maxhealthscalingboostfood",
-        "duration" : 90
+        "duration" : 495
       }
     ]],
-  "foodValue" : 10,
+  "foodValue" : 55,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 10,

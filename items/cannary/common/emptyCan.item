@@ -1,5 +1,6 @@
 {
   "itemName" : "emptyCan",
+  "maxStack" : 100,
   "price" : 4,
   "rarity" : "Common",
   "category" : "craftingMaterial",

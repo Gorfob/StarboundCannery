@@ -1,8 +1,15 @@
 {
-  "input" : [
-    { "item" : "emptyCan", "count" : 1 },
-    { "item" : "tomato", "count" : 2 }
+  "input" : [{
+      "item" : "emptyCan",
+      "count" : 1
+    }, {
+      "item" : "tomato",
+      "count" : 4
+    }
   ],
-  "output" : { "item" : "cannedTomatoes", "count" : 1 },
-  "groups" : [ "craftingfood", "mains" ]
+  "output" : {
+    "item" : "cannedTomatoes",
+    "count" : 1
+  },
+  "groups" : ["craftingfood", "mains"]
 }

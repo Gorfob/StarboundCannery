@@ -1,7 +1,7 @@
 {
   "input" : [
     { "item" : "emptyCan", "count" : 1 },
-    { "item" : "corn", "count" : 2 }
+    { "item" : "corn", "count" : 3 }
   ],
   "output" : { "item" : "cannedCorn", "count" : 1 },
   "groups" : [ "craftingfood", "mains" ]

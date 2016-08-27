@@ -1,7 +1,7 @@
 {
   "itemName" : "cannedTomatoes",
   "rarity" : "Common",
-  "price" : 40,
+  "price" : 240,
   "category" : "preparedFood",
   "inventoryIcon" : "cannedTomatoes.png",
   "description" : "Canned tomatoes. Just like mama use to make!",
