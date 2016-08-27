@@ -5,7 +5,8 @@
   "rarity" : "Common",
   "category" : "craftingMaterial",
   "inventoryIcon" : "emptyCan.png",
-  "description" : "Empty can for use in canning foodstuffs.",
+  "description" : "Empty can for use in canning food for preservation.",
   "shortdescription" : "Empty Can",
-  "itemTags" : [ "reagent" ]
+  "itemTags" : ["reagent"],
+  "learnBlueprintsOnPickup" : ["cannedCorn", "cannedFish", "cannedMushrooms", "cannedPearlpeas", "cannedPineapple", "cannedTomatoes", "cannedOculemon"]
 }
