@@ -5,7 +5,7 @@
   "category" : "food",
   "inventoryIcon" : "cannedOculemon.png",
   "description" : "A can of sour eyes, apparantly worth it.",
-  "shortdescription" : "Oculemon",
+  "shortdescription" : "Canned Oculemon",
   "foodValue" : 10,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
