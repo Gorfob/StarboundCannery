@@ -4,7 +4,7 @@
   "price" : 240,
   "category" : "preparedFood",
   "inventoryIcon" : "cannedTomatoes.png",
-  "description" : "Canned tomatoes. Just like mama use to make!",
+  "description" : "Canned tomatoes. A staple of canned goods.",
   "shortdescription" : "Canned Fish",
   "foodValue" : 10,
   "tooltipKind" : "food",

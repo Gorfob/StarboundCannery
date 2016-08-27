@@ -4,7 +4,7 @@
   "price" : 515,
   "category" : "preparedFood",
   "inventoryIcon" : "cannedOculemonstew.png",
-  "description" : "A tangy, somewhat slimy stew made of oculemon and meat scraps.",
+  "description" : "A tangy, somewhat slimy canned stew made of oculemon and meat scraps.",
   "shortdescription" : "Canned Oculemon Stew",
   "effects" : [[{
         "effect" : "ragefood",

@@ -4,7 +4,7 @@
   "price" : 200,
   "category" : "food",
   "inventoryIcon" : "cannedOculemon.png",
-  "description" : "Sour but so worth it.",
+  "description" : "A can of sour eyes, apparantly worth it.",
   "shortdescription" : "Oculemon",
   "foodValue" : 10,
   "tooltipKind" : "food",

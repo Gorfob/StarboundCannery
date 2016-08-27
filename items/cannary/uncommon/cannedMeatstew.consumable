@@ -4,7 +4,7 @@
   "price" : 200,
   "category" : "preparedFood",
   "inventoryIcon" : "cannedMeatstew.png",
-  "description" : "A slightly inferior version of what mama used to make!",
+  "description" : "A slightly inferior canned version of what mama used to make!",
   "shortdescription" : "Canned Meat Stew",
   "effects" : [[{
         "effect" : "maxhealthscalingboostfood",

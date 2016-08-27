@@ -4,7 +4,7 @@
   "price" : 350,
   "category" : "preparedFood",
   "inventoryIcon" : "cannedWartweedstew.png",
-  "description" : "A hearty, thick stew of wartweed and vegetables.",
+  "description" : "A hearty, thick canned stew of wartweed and vegetables.",
   "shortdescription" : "Canned Wartweed Stew",
   "effects" : [[{
         "effect" : "maxenergyscalingboostfood",
