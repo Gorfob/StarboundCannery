@@ -13,10 +13,7 @@
     ]],
   "foodValue" : 20,
   "tooltipKind" : "food",
-  "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 10,
-  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
-  "rottingMultiplier" : 10,
   "blockingEffects" : ["wellfed"],
   "emitters" : ["drinking"]
 }
