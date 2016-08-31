@@ -5,7 +5,7 @@
   "category" : "preparedFood",
   "inventoryIcon" : "cannedTomatoes.png",
   "description" : "Canned tomatoes. A staple of canned goods.",
-  "shortdescription" : "Canned Fish",
+  "shortdescription" : "Canned Tomatoes",
   "foodValue" : 10,
   "tooltipKind" : "food",
   "maxStack" : 10,
