@@ -11,7 +11,7 @@ Canned produce such as tomatoes, corn, pearlpeas etc. require more than 1 to mak
 ##Implemented Items
 
 ###Common
-* Empty can
+* Empty can - ![test](items/cannary/common/emptyCan.png)
 * Fish
 * Corn
 * Mushrooms
