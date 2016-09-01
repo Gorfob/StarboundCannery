@@ -11,27 +11,27 @@ Canned produce such as tomatoes, corn, pearlpeas etc. require more than 1 to mak
 ##Implemented Items
 
 ###Common
-* Empty can - !(items/cannary/common/emptyCan.png)
-* Fish - !(items/cannary/common/cannedFish.png)
-* Corn - !(items/cannary/common/cannedCorn.png)
-* Mushrooms - !(items/cannary/common/cannedMushrooms.png)
-* Pearlpeas - !(items/cannary/common/cannedPearlpeas.png)
-* Tomato - !(items/cannary/common/cannedTomatoes.png)
-* Pineapple - !(items/cannary/common/cannedPineapple.png)
-* Oculemon - !(items/cannary/common/cannedOculemon.png)
+* Empty can - ![EmptyCan](items/cannary/common/emptyCan.png)
+* Fish - ![Fish](items/cannary/common/cannedFish.png)
+* Corn - ![Corn](items/cannary/common/cannedCorn.png)
+* Mushrooms - ![Mushrooms ](items/cannary/common/cannedMushrooms.png)
+* Pearlpeas - ![Pearlpeas](items/cannary/common/cannedPearlpeas.png)
+* Tomato - ![Tomato](items/cannary/common/cannedTomatoes.png)
+* Pineapple - ![Pineapple](items/cannary/common/cannedPineapple.png)
+* Oculemon - ![Oculemon](items/cannary/common/cannedOculemon.png)
 
 ###Uncommon
-* Fish stew - !(items/cannary/uncommon/cannedFishstew.png)
-* Meat stew - !(items/cannary/uncommon/cannedMeatstew.png)
-* Porridge - !(items/cannary/uncommon/cannedPorridge.png)
-* Rice pudding - !(items/cannary/uncommon/cannedRicepudding.png)
-* Wattage potage - !(items/cannary/uncommon/canned2kbpotage.png)
-* Automato stew - !(items/cannary/uncommon/cannedAutomatostew.png)
+* Fish stew - ![Fish stew](items/cannary/uncommon/cannedFishstew.png)
+* Meat stew - ![Meat stew](items/cannary/uncommon/cannedMeatstew.png)
+* Porridge - ![Porridge](items/cannary/uncommon/cannedPorridge.png)
+* Rice pudding - ![Rice pudding](items/cannary/uncommon/cannedRicepudding.png)
+* Wattage potage - ![Wattage potage](items/cannary/uncommon/canned2kbpotage.png)
+* Automato stew - ![Automato stew](items/cannary/uncommon/cannedAutomatostew.png)
 
 ###Rare
-* Fruit salad - !(items/cannary/rare/cannedFruitSalad.png)
-* Oculemon stew - !(items/cannary/rare/cannedOculemonstew.png)
-* Wartweed stew - !(items/cannary/rare/cannedWartweeedstew.png)
+* Fruit salad - ![Fruit salad](items/cannary/rare/cannedFruitSalad.png)
+* Oculemon stew - ![Oculemon stew](items/cannary/rare/cannedOculemonstew.png)
+* Wartweed stew - ![Wartweed stew](items/cannary/rare/cannedWartweeedstew.png)
 
 ###Legendary
-* Ultimate juice  - !(items/cannary/legendary/cannedUltimatejuice.png)
+* Ultimate juice  - ![Ultimate juice](items/cannary/legendary/cannedUltimatejuice.png)
