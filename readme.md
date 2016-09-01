@@ -29,9 +29,9 @@ Canned produce such as tomatoes, corn, pearlpeas etc. require more than 1 to mak
 * Automato stew - ![Automato stew](items/cannary/uncommon/cannedAutomatostew.png)
 
 ###Rare
-* Fruit salad - ![Fruit salad](items/cannary/rare/cannedFruitSalad.png)
+* Fruit salad - ![Fruit salad](items/cannary/rare/cannedFruitsalad.png)
 * Oculemon stew - ![Oculemon stew](items/cannary/rare/cannedOculemonstew.png)
-* Wartweed stew - ![Wartweed stew](items/cannary/rare/cannedWartweeedstew.png)
+* Wartweed stew - ![Wartweed stew](items/cannary/rare/cannedWartweedstew.png)
 
 ###Legendary
 * Ultimate juice  - ![Ultimate juice](items/cannary/legendary/cannedUltimatejuice.png)
