@@ -8,5 +8,5 @@
   "description" : "Empty can for use in canning food for preservation.",
   "shortdescription" : "Empty Can",
   "itemTags" : ["reagent"],
-  "learnBlueprintsOnPickup" : ["cannedCorn", "cannedFish", "cannedMushrooms", "cannedPearlpeas", "cannedPineapple", "cannedTomatoes", "cannedOculemon", "canpiles"]
+  "learnBlueprintsOnPickup" : ["cannedCorn", "cannedFish", "cannedMushrooms", "cannedPearlpeas", "cannedPineapple", "cannedTomatoes", "cannedOculemon"]
 }
