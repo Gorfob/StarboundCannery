@@ -1,0 +1,15 @@
+{
+  "itemName" : "cannedPoultry",
+  "rarity" : "Common",
+  "price" : 25,
+  "category" : "food",
+  "inventoryIcon" : "cannedPoultry.png",
+  "description" : "What was once a perfeclty roasted bird. Now shoved into a can. It's kinda weird. And rubbery. But mostly weird.",
+  "shortdescription" : "Canned Poultry",
+  "foodValue" : 20,
+  "tooltipKind" : "food",
+  "maxStack" : 10,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}
