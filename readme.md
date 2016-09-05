@@ -13,6 +13,7 @@ Canned produce such as tomatoes, corn, pearlpeas etc. require more than 1 to mak
 ###Common
 * Empty can - ![EmptyCan](items/cannary/common/emptyCan.png)
 * Fish - ![Fish](items/cannary/common/cannedFish.png)
+* Poultry - ![Poultry](items/cannary/common/cannedPoultry.png)
 * Corn - ![Corn](items/cannary/common/cannedCorn.png)
 * Mushrooms - ![Mushrooms ](items/cannary/common/cannedMushrooms.png)
 * Pearlpeas - ![Pearlpeas](items/cannary/common/cannedPearlpeas.png)
@@ -32,6 +33,7 @@ Canned produce such as tomatoes, corn, pearlpeas etc. require more than 1 to mak
 * Fruit salad - ![Fruit salad](items/cannary/rare/cannedFruitsalad.png)
 * Oculemon stew - ![Oculemon stew](items/cannary/rare/cannedOculemonstew.png)
 * Wartweed stew - ![Wartweed stew](items/cannary/rare/cannedWartweedstew.png)
+* Cheeseburger - ![Cheeseburger](items/cannary/rare/cannedCheeseburger.png)
 
 ###Legendary
 * Ultimate juice  - ![Ultimate juice](items/cannary/legendary/cannedUltimatejuice.png)
