@@ -1,5 +1,5 @@
 # StarboundCannery
-# #Description
+## Description
 Adds the ability to can certain foods for long-term preservation. Food with effects retains the same effects. Cans stack to 10.
 
 Empty cans can be made in lots of 10 per Iron bar at the farming/agriculture station or can be purchased at Terramart for 4 pixels each. Empty cans stack to 100.
