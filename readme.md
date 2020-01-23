@@ -37,3 +37,9 @@ Canned produce such as tomatoes, corn, pearlpeas etc. require more than 1 to mak
 
 ### Legendary
 * Ultimate juice  - ![Ultimate juice](items/cannary/legendary/cannedUltimatejuice.png)
+
+## ToDo
+* Add a custom canning station (my pixel art skills are terrible)
+* Add ability to craft other recipes using the canned versions of items
+* Considering adding a small penalty to canned food (perhaps use more of the original item to create)
+* Can more things!
